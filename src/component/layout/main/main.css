@@ -1,0 +1,17 @@
+.main_container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.fobu {
+    margin-top: 9.5vh;
+    font-size: 2.8vh;
+}
+.team_name {
+    margin-top: 1vh;
+    font-size: 7vh;
+}
+
+.big_name {
+    font-size: 25vh;
+}

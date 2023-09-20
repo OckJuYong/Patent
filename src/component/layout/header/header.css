@@ -1,0 +1,7 @@
+.header_box {
+    background-color: #6B8DCF;
+    width: 99vw;
+    height: 5vh;
+    display: flex;
+    align-items: center;
+}

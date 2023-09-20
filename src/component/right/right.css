@@ -1,0 +1,45 @@
+.line_1 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.line_2 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.line_3 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.line_4 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.img_1 {
+    width: 45vw;
+}
+.img_2 {
+    width: 45vw;
+}
+.img_3 {
+    width: 45vw;
+}
+.img_4 {
+    width: 45vw;
+}
+.img_5 {
+    width: 45vw;
+}
+.img_6 {
+    width: 45vw;
+}
+.img_7 {
+    width: 45vw;
+}
+.img_8 {
+    width: 45vw;
+}
